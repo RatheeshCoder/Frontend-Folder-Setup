@@ -95,7 +95,5 @@ module.exports = {
   },
 };
 ```
-```
 
-I can also add a **Git commit hook setup** in here so every push is linted automatically. That way no bad code reaches production.  
-Do you want me to add that?
+
